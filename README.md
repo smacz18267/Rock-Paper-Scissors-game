@@ -26,3 +26,26 @@ Ensure you have the following dependencies installed:
 - OpenCV (`cv2`)
 - cvzone
 - NumPy
+
+## Installation and Requirements
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/Rock-Paper-Scissors-game.git
+   cd Rock-Paper-Scissors-game
+   ```
+
+2. Install the required dependencies:
+
+   ```bash
+   pip install opencv-python cvzone numpy
+   ```
+3. Place the required image assets inside an Images/ folder:
+```
+Images/
+├── Background.png
+├── 1.png  # Rock
+├── 2.png  # Paper
+├── 3.png  # Scissors
+```
