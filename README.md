@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-game
+# Rock Paper Scissors game
 
 ## Description
 This is a computer vision-based Rock Paper Scissors game that allows a player to compete against an AI. The game utilizes OpenCV for real-time hand tracking and gesture recognition, enabling players to make moves using hand signs.
