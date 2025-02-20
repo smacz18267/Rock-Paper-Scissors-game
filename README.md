@@ -27,7 +27,7 @@ Ensure you have the following dependencies installed:
 - cvzone
 - NumPy
 
-## Installation and Requirements
+## Installations
 
 1. Clone the repository:
 
