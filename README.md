@@ -42,10 +42,14 @@ Ensure you have the following dependencies installed:
    pip install opencv-python cvzone numpy
    ```
 3. Place the required image assets inside an Images/ folder:
-```
-Images/
-├── Background.png
-├── 1.png  # Rock
-├── 2.png  # Paper
-├── 3.png  # Scissors
-```
+   ```
+   Images/
+   ├── Background.png
+   ├── 1.png  # Rock
+   ├── 2.png  # Paper
+   ├── 3.png  # Scissors
+   ```
+## Controls
+- Show a fist (closed hand) → Rock
+- Show an open palm → Paper
+- Show two fingers (index and middle) → Scissors
